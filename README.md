@@ -5,14 +5,14 @@
 Me chamo Rodrigo Andrade, tenho 19 anos e sou de Salvador (BA). Atualmente curso Engenharia de Software na UCSAL, onde venho desenvolvendo minhas habilidades na área de tecnologia. Possuo experiência com Java, JavaScript, HTML, CSS, SQL e Spring Boot, atuando no desenvolvimento de aplicações e na resolução de problemas práticos. Estou sempre em busca de evoluir como desenvolvedor, aprimorando minhas competências e criando soluções cada vez mais eficientes. Tenho interesse em adquirir novas experiências, contribuir em projetos e crescer profissionalmente na área de desenvolvimento de software. 
 
 <p>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/RodrigoAndradeDev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/RodrigoAndradeDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/RodrigoAndradeDev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
