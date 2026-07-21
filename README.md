@@ -65,7 +65,7 @@ Showcasing my current core stack with badges:
 
 | **Platform** | **Link** | 
 | :--- | :--- |
-| **LinkedIn** | www.linkedin.com/in/henrique-madureira-1a0538363 | 
+| **LinkedIn** | https://www.linkedin.com/in/rodrigo-andradedev/ | 
 | **Email** | rodrigo.anddev@gmail.com | 
 | **Personal Site** | [My Portfolio (Coming...)](...) |
 
