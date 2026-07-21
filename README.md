@@ -1,106 +1,74 @@
-# 👨‍💻 Rodrigo Andrade dos Santos
+# Hi there! I'm Rodrigo Andrade 👋
+### Software Engineering Student | Java Full-Stack Developer
 
-**`Desenvolvedora Backend`**
+I am a **Software Engineering student** passionate about building robust and high-performance applications. I love solving complex problems with clean code, solid architectural patterns, and database consistency.
 
-Me chamo Rodrigo Andrade, tenho 19 anos e sou de Salvador (BA). Atualmente curso Engenharia de Software na UCSAL, onde venho desenvolvendo minhas habilidades na área de tecnologia. Possuo experiência com Java, JavaScript, HTML, CSS, SQL e Spring Boot, atuando no desenvolvimento de aplicações e na resolução de problemas práticos. Estou sempre em busca de evoluir como desenvolvedor, aprimorando minhas competências e criando soluções cada vez mais eficientes. Tenho interesse em adquirir novas experiências, contribuir em projetos e crescer profissionalmente na área de desenvolvimento de software. 
+Currently, my main focus is developing **FidentBank**, a modern Core Banking system. Through this project, I am mastering **ACID transactions, Pessimistic Locking, and RESTful APIs** with Spring Boot, while building secure and responsive interfaces with Angular.
 
-<p>
-    <a href="https://github.com/RodrigoAndradeDev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RodrigoAndradeDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/RodrigoAndradeDev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RodrigoAndradeDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+---
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7035F&vCenter=true&width=550&lines=Software+Engineering+Student;Building+robust+APIs+with+Java;Focused+on+Back-End+%26+Architecture;Developing+Financial+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Technologies & Tools
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+Showcasing my current core stack with badges:
 
-<br/>
-<br/>
+<!-- Programming Languages & Frameworks -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+<!--![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)-->
+<!--![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)-->
+<!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)-->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RodrigoAndradeDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAndradeDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
+<!-- Databases & Infrastructure -->
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<!--![Flyway](https://img.shields.io/badge/flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)-->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<!--![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)-->
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+<!-- Tools & IDEs -->
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+---
+
+### 📈 My GitHub Statistics
+
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RodrigoAndradeDev&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=F7035F&icon_color=F7035F" alt="GitHub Stats" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAndradeDev&layout=compact&theme=dark&hide_border=true&title_color=F7035F" alt="Top Languages" />
 </p>
+
+<br clear="both"/> 
+
+#### 🔥 Daily Activity Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAndradeDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=F7035F" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+| **Platform** | **Link** | 
+| :--- | :--- |
+| **LinkedIn** | www.linkedin.com/in/henrique-madureira-1a0538363 | 
+| **Email** | rodrigo.anddev@gmail.com | 
+| **Personal Site** | [My Portfolio (Coming...)](...) |
+
+---
