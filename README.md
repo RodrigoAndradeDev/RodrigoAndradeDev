@@ -48,21 +48,17 @@ Showcasing my current core stack with badges:
 ---
 
 ### 📈 My GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoAndradeDev&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=F7035F&icon_color=F7035F" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAndradeDev&layout=compact&theme=dark&hide_border=true&title_color=F7035F" height="165" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RodrigoAndradeDev&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=F7035F&icon_color=F7035F" alt="GitHub Stats" />
+<br />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAndradeDev&layout=compact&theme=dark&hide_border=true&title_color=F7035F" alt="Top Languages" />
-</p>
-
-<br clear="both"/> 
-
-#### 🔥 Daily Activity Streak
-
-<p align="center">
+<div align="center">
+  <h4>🔥 Daily Activity Streak</h4>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAndradeDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=F7035F" alt="GitHub Streak" />
-</p>
-
+</div>
 ---
 
 ### 📫 Let's Connect
