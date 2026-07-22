@@ -49,8 +49,8 @@ Showcasing my current core stack with badges:
 
 ### 📈 My GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoAndradeDev&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=F7035F&icon_color=F7035F" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAndradeDev&layout=compact&theme=dark&hide_border=true&title_color=F7035F" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=RodrigoAndradeDev&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=F7035F&icon_color=F7035F" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAndradeDev&layout=compact&theme=dark&hide_border=true&title_color=F7035F" height="165" alt="Top Languages" />
 </div>
 
 <br />
